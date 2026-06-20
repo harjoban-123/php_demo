@@ -1,3 +1,3 @@
 <?php
-echo "PHP Setup Successful!";
+echo "PHP Setup Successful2!";
 ?>
